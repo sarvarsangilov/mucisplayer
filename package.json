@@ -22,7 +22,7 @@
     "@capacitor/status-bar": "7.0.3",
     "@ionic/vue": "^8.0.0",
     "@ionic/vue-router": "^8.0.0",
-    "capacitor-media-session-control": "^1.0.0",
+    "capacitor-media-session-control": "^1.0.1",
     "ionicons": "^7.0.0",
     "vue": "^3.3.0",
     "vue-router": "^4.2.0"
